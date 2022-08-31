@@ -7,7 +7,7 @@ This is a book management app. It contains features like fetching books from the
 
 - Navigation Drawer from which you can go to Dashboard, Favorites, Book Details, About App Activities.
 - The favorites section in which you can add or remove your favorites books.
-- Books details activity in which you can read short summary of book.
+- Books details activity in which you can read short description about the book.
 - Dashboard activity in which all the book listed.
 - Profile page
 - About App page
