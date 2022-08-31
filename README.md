@@ -29,6 +29,7 @@ This is a book management app. It contains features like fetching books from the
 ```
 ## Screenshots
 
+- Navigation Drawer
 ![App Screenshot](https://github.com/Frostyxnova/Bookify/blob/master/Screenshot_20220831_130217.png?raw=true))
 
 
@@ -38,7 +39,7 @@ This is a book management app. It contains features like fetching books from the
 
 
 
-
+- Dashboard
 ![App Screenshot](https://github.com/Frostyxnova/Bookify/blob/master/Screenshot_20220831_130331.png?raw=true)
 
 
@@ -47,7 +48,7 @@ This is a book management app. It contains features like fetching books from the
 
 
 
-
+- Book details
 ![App Screenshot](https://github.com/Frostyxnova/Bookify/blob/master/Screenshot_20220831_130401.png?raw=true)
 
 
@@ -56,7 +57,7 @@ This is a book management app. It contains features like fetching books from the
 
 
 
-
+-  Favourite
 ![App Screenshot](https://github.com/Frostyxnova/Bookify/blob/master/Screenshot_20220831_130441.png?raw=true)
 
 
@@ -65,7 +66,7 @@ This is a book management app. It contains features like fetching books from the
 
 
 
-
+- About App
 ![App Screenshot](https://github.com/Frostyxnova/Bookify/blob/master/Screenshot_20220831_130504.png?raw=true)
 
 
@@ -73,5 +74,5 @@ This is a book management app. It contains features like fetching books from the
 
 
 
-
+- Profile 
 ![App Screenshot](https://github.com/Frostyxnova/Bookify/blob/master/Screenshot_20220831_130508.png?raw=true)
